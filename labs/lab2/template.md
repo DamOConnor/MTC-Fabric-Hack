@@ -6,7 +6,7 @@
 2. ...
 4. ...
 ------
-![Lakehouse](images\lakehouse.png)
+![Lakehouse](images/lakehouse.png)
 **Fig 2.0.1: Lakehouse**
 ------
 

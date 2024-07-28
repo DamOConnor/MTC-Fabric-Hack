@@ -5,7 +5,7 @@
 1. From the Fabric portal (logged into in lab 1.1) click **Workspace settings**
 2. review what items you can see
 
-![Workspace Settings](images\workspace%20settings%20i.png)
+![Workspace Settings](images/workspace%20settings%20i.png)
 **Fig 1.2.1: Workspace Settings**
 -----------------
 
@@ -14,7 +14,7 @@
 
 -----------------
 
-![Workspace Settings](images\workspace%20settings%20ii.png)
+![Workspace Settings](images/workspace%20settings%20ii.png)
 **Fig 1.2.2: License Info**
 -----------------
 

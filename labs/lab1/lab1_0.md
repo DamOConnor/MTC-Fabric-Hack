@@ -8,7 +8,7 @@
    user01@someDomain.onmicrosoft.com
 4. review what items you can see
 ------
-![Azure Portal](images\azureportal.png)
+![Azure Portal](images/azureportal.png)
 **Fig 1.0.1: Azure Portal**
 ------
 

@@ -8,7 +8,7 @@
     - user01@someDomain.onmicrosoft.com
 4. review what items you can see
 
-![Azure Portal](images\fabricportal.png)
+![Azure Portal](images/fabricportal.png)
 **Fig 1.1.1: Fabric Portal**
 
 5. Click on 'Home'
