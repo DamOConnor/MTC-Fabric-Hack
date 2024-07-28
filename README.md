@@ -39,11 +39,11 @@ OR
 
 ### Setup
 - [Lab 1.0: Connect to the Azure Portal](/labs/lab1/lab1_0.md)
-- [Lab 1.1: Connect to the Fabric Portal](/labs\lab1\lab1_1.md)
-- [Lab 1.2: View the trial Fabric Capacity](labs\lab1\lab1_2.md)
-- [Lab 1.3: View your lab workspace](labs\lab1\lab1_3.md)
-- [Lab 1.4: View the shared workspace](labs\lab1\lab1_4.md)
-- [Lab 1.5: Create a shortcut](labs\lab1\lab1_5.md)
+- [Lab 1.1: Connect to the Fabric Portal](/labs/lab1/lab1_1.md)
+- [Lab 1.2: View the trial Fabric Capacity](labs/lab1/lab1_2.md)
+- [Lab 1.3: View your lab workspace](labs/lab1/lab1_3.md)
+- [Lab 1.4: View the shared workspace](labs/lab1/lab1_4.md)
+- [Lab 1.5: Create a shortcut](labs/lab1/lab1_5.md)
 s
 ### Acquire
 - Lab 2.0: ...
