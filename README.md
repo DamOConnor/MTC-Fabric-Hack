@@ -28,11 +28,18 @@ Each lab will consist of a set of clear instructions to complete and a recap.
   - Instructors, proctors, attendees
   - go round each attendee and ask what they want to get out of the day(s)
 
+## Decisions
+- work through labs using browser?
+OR
+- install VSCode and work from there
+
 ## Labs
 
+
+
 ### Setup
-- [Lab 1.0: Connect to the Azure Portal](labs\lab1\lab1_0.md)
-- [Lab 1.1: Connect to the Fabric Portal](labs\lab1\lab1_1.md)
+- [Lab 1.0: Connect to the Azure Portal](/labs/lab1/lab1_0.md)
+- [Lab 1.1: Connect to the Fabric Portal](/labs\lab1\lab1_1.md)
 - [Lab 1.2: View the trial Fabric Capacity](labs\lab1\lab1_2.md)
 - [Lab 1.3: View your lab workspace](labs\lab1\lab1_3.md)
 - [Lab 1.4: View the shared workspace](labs\lab1\lab1_4.md)
