@@ -1,11 +1,11 @@
-# Lab 1.3 - View the shared workspace 
+# Lab 1.4 - View the shared workspace 
 
 ## Steps
 
 1. From the Fabric portal (logged into in lab 1.1) click **Workspaces**
 2. Go to the Workspace called 'ws_shared'
 
-![Workspace Settings](images/shared%20workspace.png)
+![Shared Workspace](images/shared%20workspace.png)
 **Fig 1.4.1: Shared Workspace**
 -----------------
 

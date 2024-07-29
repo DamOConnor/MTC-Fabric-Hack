@@ -34,9 +34,9 @@ OR
 - install VSCode and work from there
 
 ## Datasets
-- tpc-h
-- NHS Open Data
-- NYC Taxi
+- [tpc-h](datasets/tpch.md)
+- [NHS Open Data](datasets/nhsopen.md)
+- [NYC Taxi](datasets/nyctaxi.md)
 
 
 ## Labs
@@ -49,34 +49,36 @@ OR
 - [Lab 1.2: View the trial Fabric Capacity](labs/lab1/lab1_2.md)
 - [Lab 1.3: View your lab workspace](labs/lab1/lab1_3.md)
 - [Lab 1.4: View the shared workspace](labs/lab1/lab1_4.md)
-- [Lab 1.5: Create a shortcut](labs/lab1/lab1_5.md)
-s
+- [Lab 1.5: Create a Lakehouse](labs/lab1/lab1_5.md)
+- [Lab 1.6: Create a shortcut](labs/lab1/lab1_6.md)
+
 ### Acquire
-- Lab 2.0: ...
-- Lab 2.x: Create a shortcut in Microsoft Fabric
+- [Lab 2.0: Import NHS Open data to a Lakehouse](labs/lab1/lab2_0.md)
+- [Lab 2.1: Import tpc-h data to a Lakehouse](labs/lab2/lab2_1%20Notebook%20tpc-h%20Loading.ipynb)
+- Lab 2.2: Import NHS Open data to a to a Data Warehouse
+- Lab 2.3: Import tpc-h data to a Data Warehouse
 - Lab 2.x: Connect to the Lakehouse from SQL Server Management Studio (SSMS)
 - Lab 2.x: Connect to the Lakehouse from Azure Data Studio (ADS)
 - Lab 2.99: Samples
 
 
 ### Enhance
-- Lab 3.0: ...
-- Lab 3.1: Explore data with Data Wrangler in Microsoft Fabric
+- Lab 3.0: Explore data with Data Wrangler in Microsoft Fabric
 - ~~Lab 3.2: Explore data with Copilot in Microsoft Fabric~~
   - Copilot is not available on Fabric trials
 - Lab 3.x: Notebook Parameters
 - Lab 3.x: Sentiment analysis
-- Lab 3.x: Samples
+- Lab 3.99: Samples
 
 ### Match
 - Lab 4.0: Install Splink in Microsoft Fabric
 - Lab 4.1: Match data with Splink in Microsoft Fabric
-- Lab 4.x: Samples
+- Lab 4.99: Samples
 
 
 ### Surface
-- Lab 5.0: ...
-- Lab 5.x: Install the Fabric Capacity Metrics App
+- Lab 5.0: Install the Fabric Capacity Metrics App
+- Lab 5.1: AI Skill demo (msit only)
 
 
 ### Clone this repo
