@@ -54,9 +54,9 @@ OR
 
 ### Acquire
 - [Lab 2.0: Import NHS Open data to a Lakehouse](labs/lab2/lab2_0.md)
-- [Lab 2.1: Import tpc-h data to a Lakehouse](lab2_0.md)
+- [Lab 2.1: Import tpc-h data to a Lakehouse](labs/lab2/lab2_1.md)
 - Lab 2.2: Import NHS Open data to a to a Data Warehouse
-- Lab 2.3: Import tpc-h data to a Data Warehouse
+- [Lab 2.3: Import tpc-h data to a Data Warehouse](labs/lab2/lab2_3.md)
 - Lab 2.x: Connect to the Lakehouse from SQL Server Management Studio (SSMS)
 - Lab 2.x: Connect to the Lakehouse from Azure Data Studio (ADS)
 - Lab 2.99: Samples
