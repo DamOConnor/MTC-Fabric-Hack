@@ -71,10 +71,7 @@ OR
 - Lab 3.99: Samples
 
 ### Match
-- Lab 4.0: Install Splink in Microsoft Fabric
-- Lab 4.1: Match data with Splink in Microsoft Fabric
-- Lab 4.99: Samples
-
+- [Lab 4.0: Install Splink in Microsoft Fabric](labs/lab4/lab4_0.md)
 
 ### Surface
 - Lab 5.0: Install the Fabric Capacity Metrics App
