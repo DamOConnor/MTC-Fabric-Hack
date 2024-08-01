@@ -54,7 +54,7 @@ OR
 
 ### Acquire
 - [Lab 2.0: Import NHS Open data to a Lakehouse](labs/lab2/lab2_0.md)
-- [Lab 2.1: Import tpc-h data to a Lakehouse](labs/lab2/lab2_1%20Notebook%20tpc-h%20Loading.ipynb)
+- [Lab 2.1: Import tpc-h data to a Lakehouse](lab2_0.md)
 - Lab 2.2: Import NHS Open data to a to a Data Warehouse
 - Lab 2.3: Import tpc-h data to a Data Warehouse
 - Lab 2.x: Connect to the Lakehouse from SQL Server Management Studio (SSMS)
